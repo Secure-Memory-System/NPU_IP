@@ -20,7 +20,6 @@
     * `AXI4-Stream (Slave)`: DMA 연동을 통한 대용량 이미지 데이터의 고속 스트리밍 입력
     * `AXI4-Stream (Master)`: 연산 결과(Classification Result)를 다음 보안 모듈로 즉시 전송
 * **📉 경량화 설계 (Quantization)**: 8-bit/16-bit 고정 소수점 연산을 적용하여 FPGA 리소스 점유율 최소화
-* **🎯 높은 정밀도**: PyTorch 골든 모델(Golden Model)과 하드웨어 시뮬레이션 결과가 100% 일치
 
 ---
 
